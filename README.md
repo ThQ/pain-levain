@@ -66,4 +66,5 @@ Le levain est un mélange de farine complète et d'eau dans lequel vont se déve
 * Inciser la pâte assez profondément (0,5cm à 1cm de profondeur).
 * Enfourmer la pâte dans son plat couvert et laisser cuire 45 minutes à 230°C.
 
-
+![Pain cuit](pain-cuit.jpg)
+![Pain cuit tranché](pain-cuit-tranche.jpg)
