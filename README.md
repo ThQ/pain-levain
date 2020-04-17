@@ -47,8 +47,12 @@ Le levain est un mélange de farine complète et d'eau dans lequel vont se déve
 
 ## J : Confectionner le pain
 
+### Autolyse
+
 * Mélanger 700g de farine et 325g d'eau jusqu'à obtenir un mélange homogène pas trop collant.
 * Laisser reposer 40 minutes en couvrant avec un torchon humide. C'est l'autolyse. Elle permet de rendre la pâte plus extensible et donc plus facile à travailler ensuite.
+
+### Pétrissage
 * Ajouter les 200g de levain mis de côté, ainsi qu'une dizaine de tours de moulin à sel.
 * Bien homogénéiser. C'est très collant donc très pénible.
 * Bien fariner le plan de travail.
@@ -56,6 +60,8 @@ Le levain est un mélange de farine complète et d'eau dans lequel vont se déve
 * Pendant 5/10 minutes on réalise la manipulation suivante : tirer sur un côté de la pâte et la rabattre au centre sans "déchirer" la pâte, puis tourner un peu la pâte et recommencer.
 * Si la pâte est trop collante, remettre de la farine sur le plan de travail
 * Une fois ceci terminé, mettre la pâte dans un gros récipient, couvert d'un torchon humide, et laisser reposer pendant 4h.
+
+### Formage
 * Placer la pâte sur le plan de travail bien fariné.
 * Rabattre les côtés vers le centre délicatement quelques fois.
 * Retourner la pâte et lui donner une belle forme circulaire.
