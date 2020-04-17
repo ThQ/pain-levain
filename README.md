@@ -26,4 +26,11 @@ Le levain est un mélange de farine complète et d'eau dans lequel vont se déve
 * Le premier jour, ajouter dans un récipient 200g d'eau, 100g de farine et une c.à.c de sucre ; et laisser ce récipient à l'air libre, dans un endroit plutôt chaud (la cuisine). Privilégier un récipient en verre ou en bois (à défaut en plastique) à un récipient en métal.
 * Bien mélanger pour obtenir une préparation assez liquide et homogène. Idéalement, utiliser un ustensile en bois.
 * On ajoutera,chaque jour et pendant 6 jours, 50g d'eau et 50g de farine. On *rafraîchit* le levain.
-* Au 7e jour votre levain est prêt à être utiliser. C'est votre *levain chef*. Celui dans lequel on viendra piocher et qu'on nourrira.
+* Au 7e jour le levain est prêt à être utiliser. C'est le *levain chef*. Celui dans lequel on viendra piocher ensuite pour faire du pain.
+* Conservez ensuite votre levain au frigo.
+
+### A tester
+* Utiliser de l'eau bouillie plutôt qu'en bouteille.
+* Seulement 100g d'eau le jour 1. En effet cette première version du levain chef est assez liquide, ce qui s'estompe par la suite.
+
+
