@@ -36,10 +36,10 @@ Le levain est un mélange de farine complète et d'eau dans lequel vont se déve
 
 ## J-1 : Prélever du levain
 
-* Prélever 100g de levain chef stocké au frigo
-* Ajouter 105g de farine complète et 105g d'eau en bouteille
-* Mélanger jusqu'à obtenir une pâte liquide très homogène
-* Laisser à l'air libre sans couvrir jusqu'au lendemain
+* Prélever 100g de levain chef stocké au frigo.
+* Ajouter 105g de farine complète et 105g d'eau en bouteille.
+* Mélanger jusqu'à obtenir une pâte liquide très homogène.
+* Laisser à l'air libre sans couvrir jusqu'au lendemain.
 
 ## J : Rendre au levain chef
 
@@ -53,7 +53,7 @@ Le levain est un mélange de farine complète et d'eau dans lequel vont se déve
 * Bien homogénéiser. C'est très collant donc très pénible.
 * Bien fariner le plan de travail.
 * Verser la pâte sur le plan de travail.
-* Pendant 5/10 minutes on réalise la manipulation suivante : tirer sur un côté de la pâte et la rabattre de l'autre côté sans "déchirer" la pâte puis tourner un peu la pâte et recommencer.
+* Pendant 5/10 minutes on réalise la manipulation suivante : tirer sur un côté de la pâte et la rabattre au centre sans "déchirer" la pâte, puis tourner un peu la pâte et recommencer.
 * Si la pâte est trop collante, remettre de la farine sur le plan de travail
 * Une fois ceci terminé, mettre la pâte dans un gros récipient, couvert d'un torchon humide, et laisser reposer pendant 4h.
 * Placer la pâte sur le plan de travail bien fariné.
