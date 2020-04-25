@@ -42,7 +42,7 @@ Le levain est un mélange de farine complète et d'eau dans lequel vont se déve
 * Laisser à l'air libre sans couvrir jusqu'au lendemain.
 
 ## J : Rendre au levain chef
-
+![Levain chef nourri](levain-chef-nourri.jpg)
 * Remettre 110g de ce nouveau levain dans le levain chef (on vient en fait remettre ce qu'on a pris, plus un petit peu en plus pour compenser les pertes) et mettre de côté les 200g de levain restant.
 
 ## J : Confectionner le pain
@@ -50,6 +50,7 @@ Le levain est un mélange de farine complète et d'eau dans lequel vont se déve
 ### Autolyse
 
 * Mélanger 700g de farine et 325g d'eau jusqu'à obtenir un mélange homogène pas trop collant.
+![Pâte avant autolyse](avan-autolyse.jpg)
 * Laisser reposer 40 minutes en couvrant avec un torchon humide. C'est l'autolyse. Elle permet de rendre la pâte plus extensible et donc plus facile à travailler ensuite.
 
 ### Pétrissage
