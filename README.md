@@ -50,7 +50,7 @@ Le levain est un mélange de farine complète et d'eau dans lequel vont se déve
 ### Autolyse
 
 * Mélanger 700g de farine et 325g d'eau jusqu'à obtenir un mélange homogène pas trop collant.
-![Pâte avant autolyse](avan-autolyse.jpg)
+![Pâte avant autolyse](avant-autolyse.jpg)
 * Laisser reposer 40 minutes en couvrant avec un torchon humide. C'est l'autolyse. Elle permet de rendre la pâte plus extensible et donc plus facile à travailler ensuite.
 
 ### Pétrissage
