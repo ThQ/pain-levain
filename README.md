@@ -59,6 +59,7 @@ Le levain est un mélange de farine complète et d'eau dans lequel vont se déve
 * Bien fariner le plan de travail.
 * Verser la pâte sur le plan de travail.
 * Pendant 5/10 minutes on réalise la manipulation suivante : tirer sur un côté de la pâte et la rabattre au centre sans "déchirer" la pâte, puis tourner un peu la pâte et recommencer.
+* À tester : ce pétrissage https://youtu.be/FkvjdqkZWqg
 * Si la pâte est trop collante, remettre de la farine sur le plan de travail
 * Une fois ceci terminé, mettre la pâte dans un gros récipient, couvert d'un torchon humide, et laisser reposer pendant 4h.
 
